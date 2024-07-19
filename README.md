@@ -1,5 +1,5 @@
 # Python-project
-#To predict the chances of winning a candidate
+To predict the chances of winning a candidate
 In this project, I used the Eda concept to predict the chance of winning a candidate. Eda stands for Exploratory Data Analysis under which we have Cross-industry standard procedure. Under cross-industry standard procedure, we have the following stages:
 1. Business understanding
 2. Data understanding
