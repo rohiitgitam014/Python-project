@@ -1,11 +1,14 @@
 # Python-project
 To predict the chances of winning a candidate
-In this project, I used the Eda concept to predict the chance of winning a candidate. Eda stands for Exploratory Data Analysis under which we have Cross-industry standard procedure. Under cross-industry standard procedure, we have the following stages:
-1. Business understanding
-2. Data understanding
-3. Data Preparation
-4. Modelling
-5. Evaluation
-6. Deployment
-In this project, I used 70 % training and 30 % testing datasets. I got my r2_score for evaluating my model as 71 %.
-After evaluating my model, I learned which independent variable affects my target or dependent variable . For this project, I used total votes as my independent variable and the winner as my target or dependent variable. After getting my independent variable I used it to find the candidate who was the winner.In this project I used the Election dataset.
+In this project, I utilized the concept of Exploratory Data Analysis (EDA) to predict a candidate's chances of winning an election. EDA is guided by the Cross-Industry Standard Process for Data Mining (CRISP-DM), which involves the following stages:
+
+Business Understanding
+Data Understanding
+Data Preparation
+Modeling
+Evaluation
+Deployment
+I split the dataset into 70% for training and 30% for testing. The model’s performance was measured using the R-squared score, which resulted in a value of 71%. This score indicates the model's ability to explain the variance in the dependent variable.
+
+Through the evaluation process, I identified the key independent variable affecting the target variable. In this project, the total number of votes was used as the independent variable, while the election winner was the dependent variable. By analyzing this relationship, I was able to predict the winning candidate. The project was conducted using an election dataset.
+
